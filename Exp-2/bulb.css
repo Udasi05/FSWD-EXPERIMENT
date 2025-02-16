@@ -1,0 +1,13 @@
+.img{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+.on{
+    width: 75%;
+}
+
+.off{
+    width: 75%;
+    opacity: 0.5;
+}
